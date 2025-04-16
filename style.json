@@ -11,7 +11,7 @@
       ]
     },
     "satellite": {
-      "url": "https://raw.githubusercontent.com/killbert59/carto/main/tiles.json",
+      "url": "https://raw.githubusercontent.com/Nioux/TestMaps/refs/heads/main/tiles.json",
       "type": "raster"
     }
   },
